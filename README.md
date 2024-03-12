@@ -1,7 +1,7 @@
 # car-wash-issues
 ## 1.Features
 ### Car-Wash includes the following features:
--Search for Car Wash companies:non-admin users can search for Car Wash companies by their names
+-Search for Car Wash companies:non admin users can search for Car Wash companies by their names
 -Admins/Company owner profiles:each company owner has an admin page where users can see their company information,experiences and services
 -User profiles:each user has a profile with general information
 -Scheduling services:Each user can look up possible date and time for their appointment
